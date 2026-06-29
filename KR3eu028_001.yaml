@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3eu028/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫宗金鑑·訂正仲景全書傷寒論註
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu028.xml
+hash: sha256:f2c246bd2e5b38bed13d92333bf7e58eda32b56c28f2eee63a348137c9f7c3a7

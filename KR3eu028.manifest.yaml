@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eu028/v1
 canonical_location: https://kanripo.org/bkk/KR3eu028/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 醫宗金鑑·訂正仲景全書傷寒論註
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3eu028_001.yaml
     hash: sha256:f2c246bd2e5b38bed13d92333bf7e58eda32b56c28f2eee63a348137c9f7c3a7
 table_of_contents: []
-hash: sha256:296ff1d958ecdeef27211fd56a75d754a05910f7bf4bab366641eb276ed41371
+hash: sha256:5858c94f07a26938319ca77b290c12da068d7ee3943f2d57d6bb11985f409e4d
